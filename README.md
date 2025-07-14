@@ -35,6 +35,7 @@ This project uses the [Big Mart Sales dataset from Kaggle](https://www.kaggle.co
 ## Summary Results:
 
 ✅ **Training R² Score:** 0.636 (model explains \~63.6% of variance in training data).
+
 ✅ **Testing R² Score:** 0.587 (model explains \~58.7% of variance on unseen data).
 
 ## Inference:
